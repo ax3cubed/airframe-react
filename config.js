@@ -18,10 +18,10 @@ var config = {
     srcHtmlLayout:          path.join(root, 'app', 'index.html'),
 
     // Site Config ====================================================
-    siteTitle:              'Airframe',
-    siteDescription:        'Default Dashboard ready for Development',
+    siteTitle:              'iTrend',
+    siteDescription:        'iTrend is here to make you happy. created simply for fun and interaction!!',
     siteCannonicalUrl:      'http://localhost:4100',
-    siteKeywords:           'react dashboard seed bootstrap',
+    siteKeywords:           'Options this or that favorite Lover soulmate quiz fun friends love play buddy happy connected intimate laugh itrend questions relationship food about me cloths bestie pal girlfriend boyfriend partner outing colour',
     scssIncludes:           []
 }
 

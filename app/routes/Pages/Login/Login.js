@@ -21,18 +21,18 @@ const Login = () => (
         <EmptyLayout.Section center>
             { /* START Header */}
             <HeaderAuth 
-                title="Sign In to Application"
+                title=""
             />
             { /* END Header */}
             { /* START Form */}
             <Form className="mb-3">
                 <FormGroup>
                     <Label for="emailAdress">
-                        Email Adress
+                        Username
                     </Label>
-                    <Input type="email" name="email" id="emailAdress" placeholder="Enter email..." className="bg-white" />
+                    <Input type="text" name="username" id="username" placeholder="Enter username..." className="bg-white" />
                     <FormText color="muted">
-                        We&amp;ll never share your email with anyone else.
+                        We&amp;ll never share your username with anyone else.
                     </FormText>
                 </FormGroup>
                 <FormGroup>
